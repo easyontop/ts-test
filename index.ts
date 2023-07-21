@@ -3,8 +3,11 @@
 *
 * Troll
 * @example 
-* ```cpp
-* w
+* ```js
+* Test() // troll
+* ```
+* ```ts
+* Test() // trollage
 * ```
 */
 export const Test = () => {
