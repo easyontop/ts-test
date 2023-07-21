@@ -2,5 +2,11 @@
 * Test
 *
 * Troll
+* @example 
+* ```cpp
+* w
+* ```
 */
-export const Test = "1";
+export const Test = () => {
+  return true;
+};
